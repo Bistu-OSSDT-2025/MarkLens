@@ -1,4 +1,4 @@
-# 🙏 MarkLens 致谢名单
+# 🙏 MarkLens 致谢名单（还没写，就是个架子）
 
 > 感谢所有为 MarkLens 项目做出贡献的人们！
 
